@@ -1,0 +1,174 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079893804753305601",
+        "3_2079893810583326720"
+      ]
+    },
+    "author_id": "1934880636319485955",
+    "conversation_id": "2079893816899969192",
+    "created_at": "2026-07-22T11:38:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T12:38:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079893816899969192"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/1ZXME9mASj",
+          "end": 76,
+          "expanded_url": "https://x.com/mrsksyrx_xl/status/2079893816899969192/photo/1",
+          "media_key": "3_2079893804753305601",
+          "start": 53,
+          "url": "https://t.co/1ZXME9mASj"
+        },
+        {
+          "display_url": "pic.x.com/1ZXME9mASj",
+          "end": 76,
+          "expanded_url": "https://x.com/mrsksyrx_xl/status/2079893816899969192/photo/1",
+          "media_key": "3_2079893810583326720",
+          "start": 53,
+          "url": "https://t.co/1ZXME9mASj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079893816899969192",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1.会非常紧张和害怕，反复回想是哪里做错了😖😖（咱不想失去每一个朋友喵🥺\n2.谢谢谢谢w 泥也可爱喵ww https://t.co/1ZXME9mASj"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2772,
+        "media_key": "3_2079893804753305601",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1EZUrbQAE0F-C.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2772,
+        "media_key": "3_2079893810583326720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN1EZqZaUAABi2X.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079893804753305601",
+            "3_2079893810583326720"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "conversation_id": "2079893816899969192",
+        "created_at": "2026-07-22T11:38:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:38:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079893816899969192"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1ZXME9mASj",
+              "end": 76,
+              "expanded_url": "https://x.com/mrsksyrx_xl/status/2079893816899969192/photo/1",
+              "media_key": "3_2079893804753305601",
+              "start": 53,
+              "url": "https://t.co/1ZXME9mASj"
+            },
+            {
+              "display_url": "pic.x.com/1ZXME9mASj",
+              "end": 76,
+              "expanded_url": "https://x.com/mrsksyrx_xl/status/2079893816899969192/photo/1",
+              "media_key": "3_2079893810583326720",
+              "start": 53,
+              "url": "https://t.co/1ZXME9mASj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079893816899969192",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1.会非常紧张和害怕，反复回想是哪里做错了😖😖（咱不想失去每一个朋友喵🥺\n2.谢谢谢谢w 泥也可爱喵ww https://t.co/1ZXME9mASj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️｜暂时断糖 5.10-6.22｜小证家长党  \n诞生日2009.10.10｜高一｜175/60｜She/Her  \n重庆&苏州｜天残党qwq｜友所有人｜贴贴～ \nINFP-T｜属性：二次元 音游 百合 术力口  \n抑焦｜不od 不见证 不抽烟喝酒｜同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/murasakizs",
+                "end": 23,
+                "expanded_url": "http://t.me/murasakizs",
+                "start": 0,
+                "url": "https://t.co/83nbkKL1U9"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 676,
+          "like_count": 5803,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 547
+        },
+        "url": "https://t.co/83nbkKL1U9",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      }
+    ]
+  }
+}

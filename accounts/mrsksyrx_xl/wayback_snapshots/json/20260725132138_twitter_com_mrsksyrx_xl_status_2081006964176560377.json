@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2080649856075563427",
+    "created_at": "2026-07-25T13:21:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:21:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081006964176560377"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1904873292366036992",
+          "start": 0,
+          "username": "Chiyuyu520"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081006964176560377",
+    "in_reply_to_user_id": "1904873292366036992",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080649856075563427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyuyu520 好好看w"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2080649823569731586",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_z_aPaYAIq2jB.jpg",
+        "width": 768
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2080649823569797120",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN_z_aPbYAAEhOu.jpg",
+        "width": 768
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2080649856075563427",
+        "created_at": "2026-07-25T13:21:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:21:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081006964176560377"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1904873292366036992",
+              "start": 0,
+              "username": "Chiyuyu520"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081006964176560377",
+        "in_reply_to_user_id": "1904873292366036992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080649856075563427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyuyu520 好好看w"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080649823569731586",
+            "3_2080649823569797120"
+          ]
+        },
+        "author_id": "1904873292366036992",
+        "conversation_id": "2080649856075563427",
+        "created_at": "2026-07-24T13:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T14:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080649856075563427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KYmrW68kBr",
+              "end": 30,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2080649856075563427/photo/1",
+              "media_key": "3_2080649823569731586",
+              "start": 7,
+              "url": "https://t.co/KYmrW68kBr"
+            },
+            {
+              "display_url": "pic.x.com/KYmrW68kBr",
+              "end": 30,
+              "expanded_url": "https://x.com/Chiyuyu520/status/2080649856075563427/photo/1",
+              "media_key": "3_2080649823569797120",
+              "start": 7,
+              "url": "https://t.co/KYmrW68kBr"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080649856075563427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1127,
+          "like_count": 36,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "鱼鱼子新衣服 https://t.co/KYmrW68kBr"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️｜暂时断糖 5.10-6.22｜小证家长党  \n诞生日2009.10.10｜高一｜175/60｜She/Her  \n重庆&苏州｜天残党qwq｜友所有人｜贴贴～ \nINFP-T｜属性：二次元 音游 百合 术力口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpYpz2"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 674,
+          "like_count": 5848,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 555
+        },
+        "url": "https://t.co/uoKzUpYpz2",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-26T12:29:26.000Z",
+        "description": "出生日期2010 0907 HRT:2025 0324\n跨过晨昏线，便是永夜 | Cloudflare 八级钳工\n不会回关 只关注朋友 可以私聊询问\n被我屏蔽就是因为你发了我讨厌的内容",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "chiyu.rip",
+                "end": 23,
+                "expanded_url": "http://chiyu.rip",
+                "start": 0,
+                "url": "https://t.co/DgTHf1NI95"
+              }
+            ]
+          }
+        },
+        "id": "1904873292366036992",
+        "location": "遗书→",
+        "name": "池鱼鱼🍥",
+        "pinned_tweet_id": "2041875597081948669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1966428664674873344/UPFjBexp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4354,
+          "following_count": 1282,
+          "like_count": 7581,
+          "listed_count": 6,
+          "media_count": 655,
+          "tweet_count": 1820
+        },
+        "url": "https://t.co/DgTHf1NI95",
+        "username": "Chiyuyu520",
+        "verified": true
+      }
+    ]
+  }
+}

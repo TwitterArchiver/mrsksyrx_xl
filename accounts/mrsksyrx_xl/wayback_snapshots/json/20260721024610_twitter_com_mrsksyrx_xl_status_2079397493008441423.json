@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2079215028042166351",
+    "created_at": "2026-07-21T02:46:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-21T03:46:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079397493008441423"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1766407744536420352",
+          "start": 0,
+          "username": "ScarsTowel616"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079397493008441423",
+    "in_reply_to_user_id": "1766407744536420352",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079215028042166351",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ScarsTowel616 抱抱你🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2079215028042166351",
+        "created_at": "2026-07-21T02:46:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-21T03:46:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079397493008441423"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1766407744536420352",
+              "start": 0,
+              "username": "ScarsTowel616"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079397493008441423",
+        "in_reply_to_user_id": "1766407744536420352",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079215028042166351",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ScarsTowel616 抱抱你🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1766407744536420352",
+        "conversation_id": "2079215028042166351",
+        "created_at": "2026-07-20T14:41:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T15:41:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079215028042166351"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2079215028042166351",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2226,
+          "like_count": 86,
+          "quote_count": 0,
+          "reply_count": 19,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "又幻想了\n幻想自己的家里人都能接受我的性别认同，把我带去医院带我开证并且支持我。\n幻想他们能给我买好看的衣服和可爱的饰品。\n幻想他们会真正把我当女孩子来对待。\n幻想他们会尊重我的隐私，不会砸我房间的门。\n幻想我能被他们叫做乖女孩。\n幻想我能和我的爱人大大方方的在一起。\n都是幻想罢了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️｜暂时断糖 5.10-6.22｜小证家长党  \n诞生日2009.10.10｜高一｜175/60｜She/Her  \n重庆&苏州｜天残党qwq｜友所有人｜贴贴～ \nINFP-T｜属性：二次元 音游 百合 术力口  \n抑焦｜不od 不见证 不抽烟喝酒｜同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/murasakizs",
+                "end": 23,
+                "expanded_url": "http://t.me/murasakizs",
+                "start": 0,
+                "url": "https://t.co/83nbkKL1U9"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 504,
+          "following_count": 677,
+          "like_count": 5773,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 542
+        },
+        "url": "https://t.co/83nbkKL1U9",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-09T10:16:47.000Z",
+        "description": "一只笨蛋超大只疯子|紫残|戒o…？|MTF/X🏳️‍⚧️|炸柜（家暴党，大概）|无证含糖|出厂日期:2009.06.16|HRT:2026.3.6|断糖:2026.6.29|发一些负能碎碎念…|同类互fo喵|好闺蜜/好姐姐:@kuaizichopstick 主人/爱人:@Andreaya450",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 112,
+                "username": "kuaizichopstick"
+              },
+              {
+                "end": 147,
+                "start": 135,
+                "username": "Andreaya450"
+              }
+            ]
+          }
+        },
+        "id": "1766407744536420352",
+        "location": "site 02",
+        "name": "毛巾sama🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2067950659979415711",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059484390053613568/X677uU8V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 772,
+          "following_count": 619,
+          "like_count": 1868,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 1075
+        },
+        "url": "",
+        "username": "ScarsTowel616",
+        "verified": false
+      }
+    ]
+  }
+}

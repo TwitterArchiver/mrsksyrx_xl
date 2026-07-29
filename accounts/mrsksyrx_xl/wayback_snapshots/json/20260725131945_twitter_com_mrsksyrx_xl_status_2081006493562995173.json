@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2080962233140695105",
+    "created_at": "2026-07-25T13:19:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T14:19:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081006493562995173"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2028814965965312001",
+          "start": 0,
+          "username": "Miiharukawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081006493562995173",
+    "in_reply_to_user_id": "2028814965965312001",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080962233140695105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miiharukawa 你们那些好看的常服都是哪买的😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2080962233140695105",
+        "created_at": "2026-07-25T13:19:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T14:19:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081006493562995173"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2028814965965312001",
+              "start": 0,
+              "username": "Miiharukawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081006493562995173",
+        "in_reply_to_user_id": "2028814965965312001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080962233140695105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miiharukawa 你们那些好看的常服都是哪买的😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2028814965965312001",
+        "conversation_id": "2080962233140695105",
+        "created_at": "2026-07-25T10:23:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T11:23:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080962233140695105"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2080962233140695105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 648,
+          "like_count": 13,
+          "quote_count": 1,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "你们那些好看的常服都是哪买的😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️｜暂时断糖 5.10-6.22｜小证家长党  \n诞生日2009.10.10｜高一｜175/60｜She/Her  \n重庆&苏州｜天残党qwq｜友所有人｜贴贴～ \nINFP-T｜属性：二次元 音游 百合 术力口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpYpz2"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 674,
+          "like_count": 5834,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 554
+        },
+        "url": "https://t.co/uoKzUpYpz2",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-03T12:50:01.000Z",
+        "description": "发自拍的小号@Haruukawaiiii\n心的距离是遥不可及",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 20,
+                "start": 6,
+                "username": "Haruukawaiiii"
+              }
+            ]
+          }
+        },
+        "id": "2028814965965312001",
+        "name": "来杯好茶遥一摇 遥一摇",
+        "pinned_tweet_id": "2062438185507131756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065957927568179200/-kjV8Ms__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2143,
+          "following_count": 257,
+          "like_count": 10771,
+          "listed_count": 10,
+          "media_count": 502,
+          "tweet_count": 4098
+        },
+        "url": "",
+        "username": "Miiharukawa",
+        "verified": false
+      }
+    ]
+  }
+}

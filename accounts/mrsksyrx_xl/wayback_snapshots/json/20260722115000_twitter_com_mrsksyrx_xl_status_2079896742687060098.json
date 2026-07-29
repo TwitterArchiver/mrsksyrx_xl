@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2079806601222062480",
+    "created_at": "2026-07-22T11:50:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T12:50:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079896742687060098"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1943561677762646016",
+          "start": 0,
+          "username": "qusuunmd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079896742687060098",
+    "in_reply_to_user_id": "1943561677762646016",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079806601222062480",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@qusuunmd 家属不接受检查结果…抱抱你qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1920,
+        "media_key": "3_2079806598063833089",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNz1FOcbwAEnTKz.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2079806601222062480",
+        "created_at": "2026-07-22T11:50:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T12:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079896742687060098"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1943561677762646016",
+              "start": 0,
+              "username": "qusuunmd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079896742687060098",
+        "in_reply_to_user_id": "1943561677762646016",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079806601222062480",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qusuunmd 家属不接受检查结果…抱抱你qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079806598063833089"
+          ]
+        },
+        "author_id": "1943561677762646016",
+        "conversation_id": "2079806601222062480",
+        "created_at": "2026-07-22T05:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T06:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079806601222062480"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gkfquLQJ1i",
+              "end": 36,
+              "expanded_url": "https://x.com/qusuunmd/status/2079806601222062480/photo/1",
+              "media_key": "3_2079806598063833089",
+              "start": 13,
+              "url": "https://t.co/gkfquLQJ1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079806601222062480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1882,
+          "like_count": 29,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有证了吧 但是好像没啥用 https://t.co/gkfquLQJ1i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️｜暂时断糖 5.10-6.22｜小证家长党  \n诞生日2009.10.10｜高一｜175/60｜She/Her  \n重庆&苏州｜天残党qwq｜友所有人｜贴贴～ \nINFP-T｜属性：二次元 音游 百合 术力口  \n抑焦｜不od 不见证 不抽烟喝酒｜同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/murasakizs",
+                "end": 23,
+                "expanded_url": "http://t.me/murasakizs",
+                "start": 0,
+                "url": "https://t.co/83nbkKL1U9"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 503,
+          "following_count": 676,
+          "like_count": 5805,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 548
+        },
+        "url": "https://t.co/83nbkKL1U9",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2025-07-11T06:44:29.000Z",
+        "description": "2010年的xyn/167cm 57.5kg（www我要减肥）/hrt🍥时间:2025.8.15/无证含糖🍥/高二牲/有点缺爱/想要贴贴/同类互fo喵/常住于青岛喵/过年会回泉州/穷穷穷 想要钱钱/不抽烟不喝酒不od不割手/摄影📹（Canon r8）（偶尔飞飞老的不行的air3）/偶尔玩玩cos/已炸柜",
+        "id": "1943561677762646016",
+        "location": "Hachinohe-shi, Aomori",
+        "name": "曲速 u🍥",
+        "pinned_tweet_id": "2051304340376461441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025830754715090944/KciDNY7c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 862,
+          "following_count": 451,
+          "like_count": 2939,
+          "listed_count": 3,
+          "media_count": 82,
+          "tweet_count": 1203
+        },
+        "url": "",
+        "username": "qusuunmd",
+        "verified": false
+      }
+    ]
+  }
+}

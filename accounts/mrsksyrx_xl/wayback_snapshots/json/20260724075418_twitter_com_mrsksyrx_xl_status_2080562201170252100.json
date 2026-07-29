@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2079938966934204529",
+    "created_at": "2026-07-24T07:54:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T08:54:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080562201170252100"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1647298376537612290",
+          "start": 0,
+          "username": "netxfer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080562201170252100",
+    "in_reply_to_user_id": "1647298376537612290",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2079985455081365812",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@netxfer 没有显示已删除，但是在原帖下面就是没有"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2079938966934204529",
+        "created_at": "2026-07-24T07:54:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T08:54:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080562201170252100"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1647298376537612290",
+              "start": 0,
+              "username": "netxfer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080562201170252100",
+        "in_reply_to_user_id": "1647298376537612290",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079985455081365812",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@netxfer 没有显示已删除，但是在原帖下面就是没有"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1647298376537612290",
+        "conversation_id": "2079938966934204529",
+        "created_at": "2026-07-22T17:42:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T18:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079985455081365812"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsksyrx_xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079985455081365812",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 23,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2079938966934204529",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsksyrx_xl 如果点进去回复上面显示帖子已删除，但点进帖子自己又能看到回复，应该是被系统隐藏了。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF🏳️‍⚧️｜暂时断糖 5.10-6.22｜小证家长党  \n诞生日2009.10.10｜高一｜175/60｜She/Her  \n重庆&苏州｜天残党qwq｜友所有人｜贴贴～ \nINFP-T｜属性：二次元 音游 百合 术力口  \n抑焦｜不od 不见证 不抽烟喝酒｜同类互fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/murasakizs",
+                "end": 23,
+                "expanded_url": "http://t.me/murasakizs",
+                "start": 0,
+                "url": "https://t.co/83nbkKL1U9"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 502,
+          "following_count": 673,
+          "like_count": 5826,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 553
+        },
+        "url": "https://t.co/83nbkKL1U9",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2023-04-15T17:58:53.000Z",
+        "description": "上海张江，八零后，C++程序员，生理男，心理女，不婚。单向关注和浏览为主，回关随意。私信限互关，不主动打扰他人。目前关注或回关MTF群体，无法判定的暂不回关。",
+        "id": "1647298376537612290",
+        "location": "GitHub",
+        "name": "天涯過客",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030047959073837056/qrZJJ_In_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 112,
+          "like_count": 799,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 794
+        },
+        "url": "",
+        "username": "netxfer",
+        "verified": false
+      }
+    ]
+  }
+}

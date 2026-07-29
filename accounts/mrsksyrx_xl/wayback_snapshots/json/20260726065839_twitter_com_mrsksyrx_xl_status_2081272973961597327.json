@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2081220649453072540",
+    "created_at": "2026-07-26T06:58:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:58:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081272973961597327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1336576654022340608",
+          "start": 0,
+          "username": "yu_kirins"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081272973961597327",
+    "in_reply_to_user_id": "1336576654022340608",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081220649453072540",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yu_kirins xm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2081220637604106240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOH7JKOa0AAFZ09.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2081220649453072540",
+        "created_at": "2026-07-26T06:58:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:58:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081272973961597327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1336576654022340608",
+              "start": 0,
+              "username": "yu_kirins"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081272973961597327",
+        "in_reply_to_user_id": "1336576654022340608",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081220649453072540",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yu_kirins xm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081220637604106240"
+          ]
+        },
+        "author_id": "1336576654022340608",
+        "conversation_id": "2081220649453072540",
+        "created_at": "2026-07-26T03:30:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T04:30:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081220649453072540"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KJbh9OXDHI",
+              "end": 28,
+              "expanded_url": "https://x.com/yu_kirins/status/2081220649453072540/photo/1",
+              "media_key": "3_2081220637604106240",
+              "start": 5,
+              "url": "https://t.co/KJbh9OXDHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081220649453072540",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1004,
+          "like_count": 24,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "办完院了 https://t.co/KJbh9OXDHI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/暂时断糖 5.10-6.22/小证家长党/\n诞生日2009.10.10/高一/175cm/60kg/\n重庆&苏州/天残党qwq/想要变可爱/\n友所有人/同类贴贴/缺爱/\nINFP-T/双/二次元/音游/百合/术力口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpYpz2"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 500,
+          "following_count": 674,
+          "like_count": 5912,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 558
+        },
+        "url": "https://t.co/uoKzUpYpz2",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2020-12-09T07:41:57.000Z",
+        "description": "MTF|VRChat|ADHD|HRT:2025.9.16|DOB:2001.4.29",
+        "id": "1336576654022340608",
+        "location": "Shanghai",
+        "name": "yu_s",
+        "pinned_tweet_id": "2040955385121816857",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2007993844017905664/oXsuXX6A_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 114,
+          "like_count": 1455,
+          "listed_count": 0,
+          "media_count": 144,
+          "tweet_count": 426
+        },
+        "url": "",
+        "username": "yu_kirins",
+        "verified": false
+      }
+    ]
+  }
+}
