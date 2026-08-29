@@ -1,11 +1,20 @@
 {
   "name": "雪泠🍥",
   "username": "@mrsksyrx_xl",
-  "bio": "MtF/暂时断糖 5.10-6.22/小证家长党/ 诞生日2009.10.10/高一/175cm/60kg/ 重庆&苏州/天残党qwq/想要变可爱/ 友所有人/同类贴贴/缺爱/ INFP-T/双/二次元/音游/百合/术力口",
+  "bio": "MtF/小证2026.6/家长党/持证含糖（还要等2个月做生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/音游/百合/术力口\n好姐妹 @lan2984",
   "location": "某个不存在的「世界」？",
   "link": "http://tg.mrsksyrx.top",
   "avatar": "avatar/avatar.jpg",
   "banner": "avatar/1500x500.jpg",
   "pinned": "2064031452359196695",
-  "_avatar_source": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg"
+  "_avatar_source": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+  "bio_entities": {
+    "mentions": [
+      {
+        "end": 152,
+        "start": 144,
+        "username": "lan2984"
+      }
+    ]
+  }
 }
