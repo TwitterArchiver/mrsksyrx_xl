@@ -1,0 +1,201 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2085552708820553766",
+    "created_at": "2026-08-07T02:24:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-07T03:24:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085552708820553766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1236685274907906049",
+          "start": 3,
+          "username": "jiafeimao3591"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085552708820553766",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 8
+    },
+    "referenced_tweets": [
+      {
+        "id": "2085331489391292560",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @jiafeimao3591: 今天早晨看到一推文，说有个顺女带着鱼板挂坠假装跨女，然后一群人分析她哪里长得像男的，还真抓出不少“证据”🤣🤣🤣…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2085552708820553766",
+        "created_at": "2026-08-07T02:24:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-07T03:24:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085552708820553766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1236685274907906049",
+              "start": 3,
+              "username": "jiafeimao3591"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085552708820553766",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 8
+        },
+        "referenced_tweets": [
+          {
+            "id": "2085331489391292560",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @jiafeimao3591: 今天早晨看到一推文，说有个顺女带着鱼板挂坠假装跨女，然后一群人分析她哪里长得像男的，还真抓出不少“证据”🤣🤣🤣…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1236685274907906049",
+        "conversation_id": "2085331489391292560",
+        "created_at": "2026-08-06T11:45:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T12:45:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085331489391292560"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2085331489391292560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "今天早晨看到一推文，说有个顺女带着鱼板挂坠假装跨女，然后一群人分析她哪里长得像男的，还真抓出不少“证据”🤣🤣🤣\n\n我一直说，广义上的pass是很容易的，因为pass不是说你得变成美颜相机里那种美女，而是你能在外面被一眼先入为主认成女性就可以了。从外观上来讲，从男到女也不是一个二元分法而是连续谱，顺女也有高矮胖瘦漂亮的一般的老的年轻的，但绝大部分情况她们都不会被misgender。跨女也是一样，你不一定非得变成万众瞩目的美女才能pass。5米开外大家判断性别就是看头发长度，穿着打扮和举止体态；就算是面对面，绝大部分人第一反应也不会看你的肩宽或者面部线条是不是符合女性特征，没有人那么闲。所以理论上讲，一个跨女只要穿女装，留长发，脸上没有明显胡子，声音不是张飞那种，体态举止像女孩子，hrt一段时间（这会改变一些面部脂肪分布），pass的概率是相当高的。\n\n当然了你要想变成颜值博主那种美女的话当我没说😌😌那种一看天赋二看个人努力，不是每个人都有那个条件。我也想，但我知道自己不行🤣🤣"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 4280,
+          "like_count": 66,
+          "quote_count": 3,
+          "reply_count": 5,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "今天早晨看到一推文，说有个顺女带着鱼板挂坠假装跨女，然后一群人分析她哪里长得像男的，还真抓出不少“证据”🤣🤣🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还要等2个月做生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/音游/百合/术力口\n好姐妹 @lan2984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 152,
+                "start": 144,
+                "username": "lan2984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpXRJu"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 674,
+          "like_count": 5929,
+          "listed_count": 1,
+          "media_count": 67,
+          "tweet_count": 593
+        },
+        "url": "https://t.co/uoKzUpXRJu",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2020-03-08T16:09:47.000Z",
+        "description": "🏳️‍🌈mtf/药娘/跨性别🏳️‍⚧️/无证hrt中/暂居荷兰，家在长春/曾经的化竞党，吉林省省一/JLU化学本科/欧硕打算转学ing/语言爱好者/法语学习ing/旅游，音乐/已打卡30+国家/声乐学习3年+/美剧爱好者/精神状态不稳定，经常发疯/喜欢同类，男生勿扰",
+        "id": "1236685274907906049",
+        "location": "The Netherlands",
+        "name": "坏猪宝宝🐷",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049379601412202496/2BRcVdsg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 547,
+          "following_count": 439,
+          "like_count": 424,
+          "listed_count": 3,
+          "media_count": 75,
+          "tweet_count": 996
+        },
+        "url": "",
+        "username": "jiafeimao3591",
+        "verified": true
+      }
+    ]
+  }
+}

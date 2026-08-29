@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2083323015744618898",
+    "created_at": "2026-08-01T10:01:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T11:01:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083493282286539082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1708446662514110464",
+          "start": 0,
+          "username": "TixItem4527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083493282286539082",
+    "in_reply_to_user_id": "1708446662514110464",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083323015744618898",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TixItem4527 我不行了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2400,
+        "media_key": "3_2083323005481218048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOlzPE4bcAAgzy0.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2083323015744618898",
+        "created_at": "2026-08-01T10:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T11:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083493282286539082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1708446662514110464",
+              "start": 0,
+              "username": "TixItem4527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083493282286539082",
+        "in_reply_to_user_id": "1708446662514110464",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083323015744618898",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TixItem4527 我不行了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083323005481218048"
+          ]
+        },
+        "author_id": "1708446662514110464",
+        "conversation_id": "2083323015744618898",
+        "created_at": "2026-07-31T22:44:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T23:44:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083323015744618898"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s5JhtPZgle",
+              "end": 43,
+              "expanded_url": "https://x.com/TixItem4527/status/2083323015744618898/photo/1",
+              "media_key": "3_2083323005481218048",
+              "start": 20,
+              "url": "https://t.co/s5JhtPZgle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083323015744618898",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1442,
+          "like_count": 30,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我操你妈我比你骚又比你好看可以了不😡😡 https://t.co/s5JhtPZgle"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖\n（还要等2个月做生育力保存）/DIY HRT 26.5.10-6.22/\n诞生日2009.10.10/高一/175cm/60kg/\n重庆&苏州/天残党qwq/想要变可爱/\n友所有人/同类贴贴/缺爱/\nINFP-T/双/二次元/音游/百合/术力口\n好姐妹 @lan2984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "lan2984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpXRJu"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 668,
+          "like_count": 5866,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 584
+        },
+        "url": "https://t.co/uoKzUpXRJu",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2023-10-01T11:40:12.000Z",
+        "description": "家长不管党|Hrt:2026.01.12|2011.03.25出现|无心理疾病|不改不o|172cm|55kg|INFP|\nCN抖音:tixitem4527.\n跨跨帮跨跨，有问题可邮件至430830097@qq.com.\n最好的姐姐:@Liunian_a.妈妈:@laggard234472\n亲姐姐:(小寻酱，永不复活)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 127,
+                "start": 117,
+                "username": "Liunian_a"
+              },
+              {
+                "end": 145,
+                "start": 131,
+                "username": "laggard234472"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/tixite…",
+                "end": 23,
+                "expanded_url": "https://bsky.app/profile/tixitem4527.bsky.social",
+                "start": 0,
+                "url": "https://t.co/jg9pr1cSsl"
+              }
+            ]
+          }
+        },
+        "id": "1708446662514110464",
+        "location": "世界の樹",
+        "name": "TixItem4527🏳️‍⚧🍥",
+        "pinned_tweet_id": "2070349927679726002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026625365117120514/pH_OEIIo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1541,
+          "following_count": 1300,
+          "like_count": 3765,
+          "listed_count": 3,
+          "media_count": 437,
+          "tweet_count": 1740
+        },
+        "url": "https://t.co/jg9pr1cSsl",
+        "username": "TixItem4527",
+        "verified": false
+      }
+    ]
+  }
+}

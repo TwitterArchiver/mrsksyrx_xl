@@ -1,0 +1,148 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082125811071815680"
+      ]
+    },
+    "author_id": "1934880636319485955",
+    "conversation_id": "2082125827022700636",
+    "created_at": "2026-07-28T15:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T16:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082125827022700636"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/uZDbtVCLes",
+          "end": 33,
+          "expanded_url": "https://x.com/mrsksyrx_xl/status/2082125827022700636/photo/1",
+          "media_key": "3_2082125811071815680",
+          "start": 10,
+          "url": "https://t.co/uZDbtVCLes"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082125827022700636",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "咱也是持证含糖了🥰 https://t.co/uZDbtVCLes"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2082125811071815680",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUyZMKbkAArxmc.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082125811071815680"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "conversation_id": "2082125827022700636",
+        "created_at": "2026-07-28T15:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082125827022700636"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/uZDbtVCLes",
+              "end": 33,
+              "expanded_url": "https://x.com/mrsksyrx_xl/status/2082125827022700636/photo/1",
+              "media_key": "3_2082125811071815680",
+              "start": 10,
+              "url": "https://t.co/uZDbtVCLes"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082125827022700636",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "咱也是持证含糖了🥰 https://t.co/uZDbtVCLes"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证/持证含糖/家长党/\n诞生日2009.10.10/高一/175cm/60kg/\n重庆&苏州/天残党qwq/想要变可爱/\n友所有人/同类贴贴/缺爱/\nINFP-T/双/二次元/音游/百合/术力口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpYpz2"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 669,
+          "like_count": 5719,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 561
+        },
+        "url": "https://t.co/uoKzUpYpz2",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2083206274087522623",
+    "created_at": "2026-08-01T09:39:12.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:39:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083487704730443944"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1900202897738252288",
+          "start": 0,
+          "username": "HGangmakot97631"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083487704730443944",
+    "in_reply_to_user_id": "1900202897738252288",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083206274087522623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HGangmakot97631 不要这样…抑郁好痛苦的QAQ"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2083206274087522623",
+        "created_at": "2026-08-01T09:39:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:39:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083487704730443944"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1900202897738252288",
+              "start": 0,
+              "username": "HGangmakot97631"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083487704730443944",
+        "in_reply_to_user_id": "1900202897738252288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083206274087522623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HGangmakot97631 不要这样…抑郁好痛苦的QAQ"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900202897738252288",
+        "conversation_id": "2083206274087522623",
+        "created_at": "2026-07-31T15:00:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T16:00:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083206274087522623"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083206274087522623",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 872,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 6,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "即使小桐没有病，但是小桐多么希望自己可以抑郁，这倒成了小桐心里的一点慰藉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖\n（还要等2个月做生育力保存）/DIY HRT 26.5.10-6.22/\n诞生日2009.10.10/高一/175cm/60kg/\n重庆&苏州/天残党qwq/想要变可爱/\n友所有人/同类贴贴/缺爱/\nINFP-T/双/二次元/音游/百合/术力口\n好姐妹 @lan2984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "lan2984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpXRJu"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 667,
+          "like_count": 5839,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 581
+        },
+        "url": "https://t.co/uoKzUpXRJu",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T15:11:59.000Z",
+        "description": "Lost Soul Journey\n/🏳️‍⚧️MTFtx/HRT始于  2025.10.06/止于2025.10.31\n/深柜？出柜？炸柜？一种奇妙的量子叠加态/嫉妒所有比我好看的女孩子",
+        "id": "1900202897738252288",
+        "location": "湖北荆门下属某个地方",
+        "name": "困困小桐💤",
+        "pinned_tweet_id": "2051575598674550798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051573340666753024/8RKC7yiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 462,
+          "following_count": 671,
+          "like_count": 9809,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1679
+        },
+        "url": "",
+        "username": "HGangmakot97631",
+        "verified": false
+      }
+    ]
+  }
+}

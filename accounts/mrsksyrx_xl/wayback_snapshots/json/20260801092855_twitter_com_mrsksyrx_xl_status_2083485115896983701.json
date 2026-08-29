@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2082899408262434951",
+    "created_at": "2026-08-01T09:28:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:28:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083485115896983701"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1843201902550634496",
+          "start": 0,
+          "username": "LwrDHYyuxR22499"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083485115896983701",
+    "in_reply_to_user_id": "1843201902550634496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082899408262434951",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LwrDHYyuxR22499 感谢您的付出"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2082899300779241472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOfx4N3bMAAFsxe.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2082899408262434951",
+        "created_at": "2026-08-01T09:28:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:28:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083485115896983701"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1843201902550634496",
+              "start": 0,
+              "username": "LwrDHYyuxR22499"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083485115896983701",
+        "in_reply_to_user_id": "1843201902550634496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082899408262434951",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LwrDHYyuxR22499 感谢您的付出"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082899300779241472"
+          ]
+        },
+        "author_id": "1843201902550634496",
+        "conversation_id": "2082899408262434951",
+        "created_at": "2026-07-30T18:41:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-30T19:41:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082899408262434951"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/GzuYn8XbZv",
+              "end": 92,
+              "expanded_url": "https://x.com/LwrDHYyuxR22499/status/2082899408262434951/photo/1",
+              "media_key": "3_2082899300779241472",
+              "start": 69,
+              "url": "https://t.co/GzuYn8XbZv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082899408262434951",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 15,
+          "impression_count": 19793,
+          "like_count": 342,
+          "quote_count": 6,
+          "reply_count": 69,
+          "retweet_count": 17
+        },
+        "reply_settings": "everyone",
+        "text": "性少数群体对扭转机构的恐惧与迫害，将在我们手里变成过去式\n虽然离让所有人坦然在阳光下相见还很远\n但至少……不会再让所爱的大家与教官相见了 https://t.co/GzuYn8XbZv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖\n（还要等2个月做生育力保存）/DIY HRT 26.5.10-6.22/\n诞生日2009.10.10/高一/175cm/60kg/\n重庆&苏州/天残党qwq/想要变可爱/\n友所有人/同类贴贴/缺爱/\nINFP-T/双/二次元/音游/百合/术力口\n好姐妹 @lan2984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "lan2984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpXRJu"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 667,
+          "like_count": 5821,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 579
+        },
+        "url": "https://t.co/uoKzUpXRJu",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-07T08:09:22.000Z",
+        "description": "一名独立调查人，反扭转救援信息战主力、体系化反扭设计者，反邪教，反家暴\n曾受邀BBC Eye联合调查曝光违规机构，个案不定期登刊央视、东方卫视、中华网、半月谈以及各大新闻媒体。\n斩获2026年度新闻界🥇卓越奖\n最大的愿望是中国老百姓都能过上好日子",
+        "id": "1843201902550634496",
+        "name": "牧鸢",
+        "pinned_tweet_id": "1999309621845254386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079781229529022464/zTPOeSt6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6791,
+          "following_count": 3347,
+          "like_count": 4153,
+          "listed_count": 19,
+          "media_count": 526,
+          "tweet_count": 3653
+        },
+        "url": "",
+        "username": "LwrDHYyuxR22499",
+        "verified": true
+      }
+    ]
+  }
+}

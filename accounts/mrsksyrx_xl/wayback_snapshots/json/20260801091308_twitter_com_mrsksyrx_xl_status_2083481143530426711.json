@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2083260587900031483",
+    "created_at": "2026-08-01T09:13:08.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:13:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083481143530426711"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2070544483977232389",
+          "start": 0,
+          "username": "AkanoQWQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083481143530426711",
+    "in_reply_to_user_id": "2070544483977232389",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083260587900031483",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AkanoQWQ 好耶 恭喜w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2083260587900031483",
+        "created_at": "2026-08-01T09:13:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:13:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083481143530426711"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2070544483977232389",
+              "start": 0,
+              "username": "AkanoQWQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083481143530426711",
+        "in_reply_to_user_id": "2070544483977232389",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083260587900031483",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AkanoQWQ 好耶 恭喜w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2070544483977232389",
+        "conversation_id": "2083260587900031483",
+        "created_at": "2026-07-31T18:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T19:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083260587900031483"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083260587900031483",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "被妈妈抓到查激素六项的后续：\n妈妈——\n1.理解Akano的性别焦虑，并支持通过hrt等手段缓解性别焦虑（呜呜呜妈妈最好了～）\n2.对顺性别女性hrt有一定了解（并进行了充分交流x）\n3.对未经医疗检验的方案持反对意见+我们家普遍有肝病（比卡鲁胺，out！）\n4.希望Akano在hrt的第一年接受正规hrt指导\n5.希望Akano能自力更生覆盖hrt支出，但经济独立前可以提供支持（大概也不需要？）\n6.希望将健康置于经济影响之上，认为该采取价格略高但是更安全的选择（但是恐怕不是略高……？）\n7.认为Akano没有可能RLE（划去，嗯虽然咱也不自信就是了……）\n总之也是正式成为家长党了w原本以为妈妈或多或少会先反对hrt呢，没想到完全没有，妈妈只是担心咱的健康问题🥺\n呜呜呜好感动w"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 3372,
+          "like_count": 74,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "被妈妈抓到查激素六项的后续：\n妈妈——\n1.理解Akano的性别焦虑，并支持通过hrt等手段缓解性别焦虑（呜呜呜妈妈最好了～）\n2.对顺性别女性hrt有一定了解（并进行了充分交流x）\n3.对未经医疗检验的方案持反对意见+我们家普遍有肝病（比卡鲁胺，out！）\n4.希望Akano在hrt的第一年接受正规hrt指导"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖\n（还要等2个月做生育力保存）/DIY HRT 26.5.10-6.22/\n诞生日2009.10.10/高一/175cm/60kg/\n重庆&苏州/天残党qwq/想要变可爱/\n友所有人/同类贴贴/缺爱/\nINFP-T/双/二次元/音游/百合/术力口\n好姐妹 @lan2984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "lan2984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpXRJu"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 667,
+          "like_count": 5810,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 574
+        },
+        "url": "https://t.co/uoKzUpXRJu",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2026-06-26T16:28:13.000Z",
+        "description": "退役OIer | 现役RMer | Counter-Strike | 超级萌豚（百合控!） | sim racing | 可爱是最高赞美！| 希望成为友善与温暖的人 | 🇨🇳简繁中文/🇬🇧ENG(installing…)",
+        "id": "2070544483977232389",
+        "location": "Hong Kong",
+        "name": "Akano",
+        "pinned_tweet_id": "2077057751046558030",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070544928502153218/ZFgKKGdd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 168,
+          "following_count": 230,
+          "like_count": 1288,
+          "listed_count": 0,
+          "media_count": 114,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "AkanoQWQ",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,269 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2082104576011100171",
+    "created_at": "2026-07-29T14:21:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T15:21:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082471545705000966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1766644305660420096",
+          "start": 0,
+          "username": "umehara02A01"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082471545705000966",
+    "in_reply_to_user_id": "1766644305660420096",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082104576011100171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@umehara02A01 神医啊（bushi）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1438,
+        "media_key": "3_2082104560693477376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOUfEQVbAAAC8oT.jpg",
+        "width": 1093
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2082104576011100171",
+        "created_at": "2026-07-29T14:21:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T15:21:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082471545705000966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1766644305660420096",
+              "start": 0,
+              "username": "umehara02A01"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082471545705000966",
+        "in_reply_to_user_id": "1766644305660420096",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082104576011100171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@umehara02A01 神医啊（bushi）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082104560693477376"
+          ]
+        },
+        "author_id": "1766644305660420096",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2082104576011100171",
+        "created_at": "2026-07-28T14:03:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T15:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082104576011100171"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LWpdh1mXje",
+              "end": 23,
+              "expanded_url": "https://x.com/umehara02A01/status/2082104576011100171/photo/1",
+              "media_key": "3_2082104560693477376",
+              "start": 0,
+              "url": "https://t.co/LWpdh1mXje"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082104576011100171",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 39,
+          "impression_count": 41814,
+          "like_count": 477,
+          "quote_count": 3,
+          "reply_count": 26,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/LWpdh1mXje"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证/持证含糖/家长党/\n诞生日2009.10.10/高一/175cm/60kg/\n重庆&苏州/天残党qwq/想要变可爱/\n友所有人/同类贴贴/缺爱/\nINFP-T/双/二次元/音游/百合/术力口\n好姐妹 @lan2984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 115,
+                "start": 107,
+                "username": "lan2984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpYpz2"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 494,
+          "following_count": 669,
+          "like_count": 5743,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 565
+        },
+        "url": "https://t.co/uoKzUpYpz2",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-10T01:56:57.000Z",
+        "description": "akaすいか/高校2年生/mtf🏳️‍⚧️🍥/地雷女/リスカ🔪🩸/お酒🍷依存/ASD/プログラマー👩‍💻/うつ/撮り鉄🚞/ 子猫🐱/ネコ民国の小統領/ zh-hant/ja/en /@happysugarlifeA 推し/裏垢@umeharaAC02",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 91,
+                "username": "happysugarlifeA"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "umeharaAC02"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "republicofneko.site",
+                "end": 23,
+                "expanded_url": "http://republicofneko.site",
+                "start": 0,
+                "url": "https://t.co/BjCzmF32Js"
+              }
+            ]
+          }
+        },
+        "id": "1766644305660420096",
+        "location": "Republic of Neko/ネコ民国 下海市 ",
+        "name": "🏳️‍⚧️梅原寒咲🐱",
+        "pinned_tweet_id": "2060350171293319289",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060312968013979648/Dmn7X3b2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1925,
+          "following_count": 2156,
+          "like_count": 18207,
+          "listed_count": 6,
+          "media_count": 489,
+          "tweet_count": 9353
+        },
+        "url": "https://t.co/BjCzmF32Js",
+        "username": "umehara02A01",
+        "verified": false
+      }
+    ]
+  }
+}
