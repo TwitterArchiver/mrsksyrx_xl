@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093493771111718912"
+      ]
+    },
+    "author_id": "1934880636319485955",
+    "conversation_id": "2093493782113309138",
+    "created_at": "2026-08-29T00:19:47.000Z",
+    "display_text_range": [
+      0,
+      6
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T01:19:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093493782113309138"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/iuN1ixfXoR",
+          "end": 30,
+          "expanded_url": "https://x.com/mrsksyrx_xl/status/2093493782113309138/photo/1",
+          "media_key": "3_2093493771111718912",
+          "start": 7,
+          "url": "https://t.co/iuN1ixfXoR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093493782113309138",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2093493771111718912"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "又来了喵（） https://t.co/iuN1ixfXoR"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2093493771111718912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ2VfjabYAANPz0.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093493771111718912"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "conversation_id": "2093493782113309138",
+        "created_at": "2026-08-29T00:19:47.000Z",
+        "display_text_range": [
+          0,
+          6
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T01:19:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093493782113309138"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/iuN1ixfXoR",
+              "end": 30,
+              "expanded_url": "https://x.com/mrsksyrx_xl/status/2093493782113309138/photo/1",
+              "media_key": "3_2093493771111718912",
+              "start": 7,
+              "url": "https://t.co/iuN1ixfXoR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093493782113309138",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2093493771111718912"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "又来了喵（） https://t.co/iuN1ixfXoR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还要等2个月做生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/术力口\n好姐妹 @lan2984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 146,
+                "start": 138,
+                "username": "lan2984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpXRJu"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "某个不存在的「世界」？",
+        "most_recent_tweet_id": "2093493782113309138",
+        "name": "雪泠酱",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 491,
+          "following_count": 654,
+          "like_count": 5963,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 605
+        },
+        "url": "https://t.co/uoKzUpXRJu",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

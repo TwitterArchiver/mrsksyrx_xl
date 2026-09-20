@@ -1,0 +1,229 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2083489848246317158",
+    "created_at": "2026-08-01T09:47:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:47:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2083489848246317158"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/YesterdayOrang…",
+          "end": 34,
+          "expanded_url": "https://twitter.com/YesterdayOrange/status/2083386409495515313",
+          "start": 11,
+          "url": "https://t.co/aw9l6dKGOM"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083489848246317158",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083386409495515313",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "允许你用那两个字叫我 https://t.co/aw9l6dKGOM"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2083489848246317158",
+        "created_at": "2026-08-01T09:47:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:47:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083489848246317158"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/YesterdayOrang…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/YesterdayOrange/status/2083386409495515313",
+              "start": 11,
+              "url": "https://t.co/aw9l6dKGOM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083489848246317158",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083386409495515313",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "允许你用那两个字叫我 https://t.co/aw9l6dKGOM"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1788485889225834496",
+        "conversation_id": "2083386409495515313",
+        "created_at": "2026-08-01T02:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T03:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083386409495515313"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/durantraym9367…",
+              "end": 34,
+              "expanded_url": "https://twitter.com/durantraym93677/status/2083140198142226445",
+              "start": 11,
+              "url": "https://t.co/JOGcfnaXVW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083386409495515313",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1734,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083140198142226445",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "允许你用那两个字叫我 https://t.co/JOGcfnaXVW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖\n（还要等2个月做生育力保存）/DIY HRT 26.5.10-6.22/\n诞生日2009.10.10/高一/175cm/60kg/\n重庆&苏州/天残党qwq/想要变可爱/\n友所有人/同类贴贴/缺爱/\nINFP-T/双/二次元/音游/百合/术力口\n好姐妹 @lan2984",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 149,
+                "username": "lan2984"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tg.mrsksyrx.top",
+                "end": 23,
+                "expanded_url": "http://tg.mrsksyrx.top",
+                "start": 0,
+                "url": "https://t.co/uoKzUpXRJu"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "location": "某个不存在的「世界」？",
+        "name": "雪泠🍥",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2030690139618639872/zk1w_g7B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 492,
+          "following_count": 667,
+          "like_count": 5853,
+          "listed_count": 1,
+          "media_count": 66,
+          "tweet_count": 582
+        },
+        "url": "https://t.co/uoKzUpXRJu",
+        "username": "mrsksyrx_xl",
+        "verified": true
+      },
+      {
+        "created_at": "2024-05-09T08:27:31.000Z",
+        "description": "谁能不顾自己的家园，\n抛开记忆中的童年，\n谁能忍心看那昨日的忧愁，\n带走我们的笑容。\n逃生舱 @haishishenlou25",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 63,
+                "start": 47,
+                "username": "haishishenlou25"
+              }
+            ]
+          }
+        },
+        "id": "1788485889225834496",
+        "name": "昨天和欧润吉🍊",
+        "pinned_tweet_id": "2083394810401153196",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035776609136136192/zoNrU_fG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12295,
+          "following_count": 5327,
+          "like_count": 98363,
+          "listed_count": 21,
+          "media_count": 2465,
+          "tweet_count": 21299
+        },
+        "url": "",
+        "username": "YesterdayOrange",
+        "verified": true
+      }
+    ]
+  }
+}

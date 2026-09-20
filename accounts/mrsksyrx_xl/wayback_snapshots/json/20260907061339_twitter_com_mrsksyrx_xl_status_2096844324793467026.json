@@ -1,0 +1,281 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2096844324793467026",
+    "created_at": "2026-09-07T06:13:39.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T07:13:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096844324793467026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1999059927650930688",
+          "start": 3,
+          "username": "LightSTAR_qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096844324793467026",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096672818050322554",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @LightSTAR_qwq: 关于我变成mtf的经历🍥\n\n我想要变成女孩子可以追溯到很小的时候\n……\n从幼儿园开始，我就喜欢一些可爱的东西，喜欢粉色，这让我觉得和其他男生格格不入，我曾问过我妈，为什么我不能穿裙子，我妈说裙子是女生才穿的，从那时开始，我羡慕女生，并经常和…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "毛豆和苍星",
+        "height": 2304,
+        "media_key": "3_2096672806973136896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRjgzy3a4AANZMJ.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2096844324793467026",
+        "created_at": "2026-09-07T06:13:39.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T07:13:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096844324793467026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1999059927650930688",
+              "start": 3,
+              "username": "LightSTAR_qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096844324793467026",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096672818050322554",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @LightSTAR_qwq: 关于我变成mtf的经历🍥\n\n我想要变成女孩子可以追溯到很小的时候\n……\n从幼儿园开始，我就喜欢一些可爱的东西，喜欢粉色，这让我觉得和其他男生格格不入，我曾问过我妈，为什么我不能穿裙子，我妈说裙子是女生才穿的，从那时开始，我羡慕女生，并经常和…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096672806973136896"
+          ]
+        },
+        "author_id": "1999059927650930688",
+        "conversation_id": "2096672818050322554",
+        "created_at": "2026-09-06T18:52:08.000Z",
+        "display_text_range": [
+          0,
+          123
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:52:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096672818050322554"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NRG0EwMJVU",
+              "end": 147,
+              "expanded_url": "https://x.com/LightSTAR_qwq/status/2096672818050322554/photo/1",
+              "media_key": "3_2096672806973136896",
+              "start": 124,
+              "url": "https://t.co/NRG0EwMJVU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096672818050322554",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "alt_text": "毛豆和苍星",
+            "media_key": "3_2096672806973136896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "关于我变成mtf的经历🍥\n\n我想要变成女孩子可以追溯到很小的时候\n……\n从幼儿园开始，我就喜欢一些可爱的东西，喜欢粉色，这让我觉得和其他男生格格不入，我曾问过我妈，为什么我不能穿裙子，我妈说裙子是女生才穿的，从那时开始，我羡慕女生，并经常和女生玩\n\n后来上了小学，从小学开始我经常被其他男生欺负，所以我仍然喜欢和女生玩，并且不太喜欢一部分男生，我觉得我从出生性别就错了，到了青春期我开始讨厌我的下面，并且想要将它割掉，但是我没有这么做，变声期之后，我开始讨厌我的声音，后来从B站上面了解伪音，喜欢夹着说话，结果导致后来声音变得有点幼\n\n到了初中，我攒钱买了第一套女装，当时我很开心，穿上女装感觉我没有那么焦虑了，让本来不喜欢拍照的我在那天拍了好多照片，我把女装藏起来，后来被我妈发现了，但是似乎没有特别反对，于是我后面一有钱就会去买女装，收藏夹里也全是小裙子，也努力去理解关于女生的东西，也经常幻想变成女孩子，也有去做变性手术的想法，当时我以为我就是单纯的男娘\n\n就这样上了高中，在一次偶然的经历，我接触了mtf这个群体，我终于知道，我这种情况原来是mtf，但是我不敢吃药，犹犹豫豫到高二，终于买了第一次雌二醇，成为了mtf的一员，我也终于明白我为什么对女生无感，然后谈过几次恋爱都是男生，但是后来都被甩了，这让我备受打击，很长一段时间不相信任何感情，也是从现在开始，对我的不理解人也越来越多，欺负我的人也越来越多，在学校我被造谣被欺负，在家我妈我爸骂我，后面还把我的糖丢掉了，也导致了我高中患上了重度抑郁，自闭症，双相和精分，直到\n……\n我遇到了毛豆@lovelymaodou，她是一位家长党药娘姐姐，虽然她和我经历不同，但是很体贴，照顾我，在我难受的时候陪着我，她就想一束光照进了我的生活，我感觉和她在一起的日子每天都是幸福的。我渐渐的喜欢上她，后来我们成为了情侣，她也答应我会和我一辈子在一起，我真的非常爱她，希望我们能白头偕老\n\n可是快乐的日子总是短暂的，我要回家，她也要上学，我们约定好等我高考完就一起住，在家里的这段时间也发生了许多，我家庭关系愈发紧张，后来受不了了尝试自杀，也是毛豆姐姐报警救了我，后来我家里人妥协了，这不妨也是一件好事，终于可以大大方方吃糖了，也是变成家长党(存疑)了，找个机会我要去开证，这样我就是持证mtf，也不会再被蛐蛐了，生活在变好，但是在这段时间，毛豆被校内的人造谣和举报，导致毛豆失联，但是相信毛豆一定会解决的！因为她说过会陪我过生日(期待11.28)也诅咒坏人一辈子给我和毛豆挡灾⊙᎔⊙\n\n最后非常感谢我最爱的对象毛豆，也感谢很多药娘姐姐对我的肯定和帮助，要不是你们，我也不会走到现在，我也希望大家可以早日变成女孩子，穿小裙子，以女性的身份活下去，不要吃盐自杀，希望大家都好好活下去\n \n这就是我变成mtf的经历´ₒ⦁⩊⦁ₒ`谢谢观看"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 4254,
+          "like_count": 102,
+          "quote_count": 0,
+          "reply_count": 25,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "关于我变成mtf的经历🍥\n\n我想要变成女孩子可以追溯到很小的时候\n……\n从幼儿园开始，我就喜欢一些可爱的东西，喜欢粉色，这让我觉得和其他男生格格不入，我曾问过我妈，为什么我不能穿裙子，我妈说裙子是女生才穿的，从那时开始，我羡慕女生，并经常和女生玩 https://t.co/NRG0EwMJVU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还要等1个月生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/术力口\n头像自设OC稿件\n好姐妹 @lyqy_w 🥰🥰🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 148,
+                "username": "lyqy_w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.top",
+                "end": 23,
+                "expanded_url": "https://sgexilq.top",
+                "start": 0,
+                "url": "https://t.co/sqVDZBDJyF"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "某个不存在的「世界」？",
+        "most_recent_tweet_id": "2096844324793467026",
+        "name": "雪泠酱",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 655,
+          "like_count": 6014,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 616
+        },
+        "url": "https://t.co/sqVDZBDJyF",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-12-11T10:13:45.000Z",
+        "description": "音游人 | mtf🏳️‍⚧️ | 165cm | 57kg | 重焦重抑 | 无证含糖 | 生日2008.11.28 | B站up | VRchat重度依赖 | 不od | 不见证 | 不抽烟喝酒 | 有时会割手 |  对象@lovelymaodou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 112,
+                "username": "lovelymaodou"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bzfR3fN",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bzfR3fN",
+                "start": 0,
+                "url": "https://t.co/ghmbUs7tgx"
+              }
+            ]
+          }
+        },
+        "id": "1999059927650930688",
+        "is_identity_verified": false,
+        "location": "广东",
+        "most_recent_tweet_id": "2096799122930225196",
+        "name": "苍星哒哒哒🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2096672818050322554",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1999059927650930688/1777743465",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051718115445354496/zw7XNEkf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 726,
+          "following_count": 430,
+          "like_count": 2013,
+          "listed_count": 2,
+          "media_count": 64,
+          "tweet_count": 215
+        },
+        "url": "https://t.co/ghmbUs7tgx",
+        "username": "LightSTAR_qwq",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

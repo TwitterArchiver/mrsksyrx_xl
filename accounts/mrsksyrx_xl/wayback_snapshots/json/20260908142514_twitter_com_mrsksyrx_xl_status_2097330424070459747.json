@@ -1,0 +1,264 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2097330424070459747",
+    "created_at": "2026-09-08T14:25:14.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-08T15:25:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097330424070459747"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2008812080099672064",
+          "start": 3,
+          "username": "Xiaoyi_0324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097330424070459747",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096959282122289502",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Xiaoyi_0324: 我真的要急哭了 为什么留了快500天的头发 出门还是一眼男 明明奈子也大了 头发也长了 到底为什么\n在哪看都是男生 一点女相都没有\n从来没有炸过厕所\n从来没有人把我按我的性别认同对待\n从来没有人叫过我任何一声姐姐\n前段时间去火车站接人 我被叫了…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2097330424070459747",
+        "created_at": "2026-09-08T14:25:14.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T15:25:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097330424070459747"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2008812080099672064",
+              "start": 3,
+              "username": "Xiaoyi_0324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097330424070459747",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096959282122289502",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Xiaoyi_0324: 我真的要急哭了 为什么留了快500天的头发 出门还是一眼男 明明奈子也大了 头发也长了 到底为什么\n在哪看都是男生 一点女相都没有\n从来没有炸过厕所\n从来没有人把我按我的性别认同对待\n从来没有人叫过我任何一声姐姐\n前段时间去火车站接人 我被叫了…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2008812080099672064",
+        "conversation_id": "2096959282122289502",
+        "created_at": "2026-09-07T13:50:27.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T14:50:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096959282122289502"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096959282122289502",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "我真的要急哭了 为什么留了快500天的头发 出门还是一眼男 明明奈子也大了 头发也长了 到底为什么\n在哪看都是男生 一点女相都没有\n从来没有炸过厕所\n从来没有人把我按我的性别认同对待\n从来没有人叫过我任何一声姐姐\n前段时间去火车站接人 我被叫了好几次帅哥 其中还有一个顺女！\n无论头发再长 无论柰子再大 都会因为这个18码的喉结而前功尽弃\n每当在网上 群里 看见pass的同类 再照照镜子看看自己 好的 原地爆炸\n身高 体重……已经不在意了 而每次一开口 都要被神人声音打回现实 什么都学不会 什么都做不好\n想给声带整个割掉 变成哑巴 这样变pass 是不是就容易多了呢……\nPS:以后小号发不下的帖子 会利用这个账号的Premium权限发帖"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 12186,
+          "like_count": 152,
+          "quote_count": 1,
+          "reply_count": 129,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "我真的要急哭了 为什么留了快500天的头发 出门还是一眼男 明明奈子也大了 头发也长了 到底为什么\n在哪看都是男生 一点女相都没有\n从来没有炸过厕所\n从来没有人把我按我的性别认同对待\n从来没有人叫过我任何一声姐姐\n前段时间去火车站接人 我被叫了好几次帅哥 其中还有一个顺女！\n无论头发再长"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还要等1个月生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/术力口\n头像自设OC稿件\n好姐妹 @lyqy_w 🥰🥰🥰",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 148,
+                "username": "lyqy_w"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.com",
+                "end": 23,
+                "expanded_url": "https://sgexilq.com",
+                "start": 0,
+                "url": "https://t.co/lYYLB3nMq8"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "某个不存在的「世界」？",
+        "most_recent_tweet_id": "2097330424070459747",
+        "name": "雪泠酱",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 495,
+          "following_count": 657,
+          "like_count": 6027,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 619
+        },
+        "url": "https://t.co/lYYLB3nMq8",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-07T08:05:14.000Z",
+        "description": "几乎全天在线的互联网飞舞兼超级缺爱B\n随笔 照片看亮点|里推:@Ruai_0324\n不Pass的MTF|老婆:@Cafwwwww\n闺蜜:@Z348457376|半个家长党|无证含糖:26/5/26|\n只互同类|其他互fo请私信|团队@TransCircleOrg\nSteam:1839602850|快来玩匿名提问⬇️⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 31,
+                "username": "Ruai_0324"
+              },
+              {
+                "end": 64,
+                "start": 55,
+                "username": "Cafwwwww"
+              },
+              {
+                "end": 79,
+                "start": 68,
+                "username": "Z348457376"
+              },
+              {
+                "end": 131,
+                "start": 116,
+                "username": "TransCircleOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/xiaoyi_0324",
+                "end": 23,
+                "expanded_url": "https://ngl.link/xiaoyi_0324",
+                "start": 0,
+                "url": "https://t.co/KVsMyBLR77"
+              }
+            ]
+          }
+        },
+        "id": "2008812080099672064",
+        "is_identity_verified": false,
+        "location": "Jilin,Changchun",
+        "most_recent_tweet_id": "2097324428007006230",
+        "name": "櫻川由奈🏳️‍⚧️Sakura🍥",
+        "pinned_tweet_id": "2090460588828995973",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2008812080099672064/1786172194",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079403446588035072/WZXyaWgD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 448,
+          "like_count": 2166,
+          "listed_count": 7,
+          "media_count": 479,
+          "tweet_count": 3877
+        },
+        "url": "https://t.co/KVsMyBLR77",
+        "username": "Xiaoyi_0324",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
