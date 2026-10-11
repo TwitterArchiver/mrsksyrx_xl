@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2106309892525175222",
+    "created_at": "2026-10-04T04:06:13.000Z",
+    "display_text_range": [
+      17,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T05:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106596729646887093"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1827971482540216320",
+          "start": 0,
+          "username": "hugegaleros1234"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106596729646887093",
+    "in_reply_to_user_id": "1827971482540216320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106309892525175222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@hugegaleros1234 怎么能这样…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 511,
+        "media_key": "3_2106309886216937473",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTsdroraoAEpt-s.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2106309892525175222",
+        "created_at": "2026-10-04T04:06:13.000Z",
+        "display_text_range": [
+          17,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T05:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106596729646887093"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1827971482540216320",
+              "start": 0,
+              "username": "hugegaleros1234"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106596729646887093",
+        "in_reply_to_user_id": "1827971482540216320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106309892525175222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@hugegaleros1234 怎么能这样…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106309886216937473"
+          ]
+        },
+        "author_id": "1827971482540216320",
+        "conversation_id": "2106309892525175222",
+        "created_at": "2026-10-03T09:06:26.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:06:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106309892525175222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/H3QfzQgrEd",
+              "end": 39,
+              "expanded_url": "https://x.com/hugegaleros1234/status/2106309892525175222/photo/1",
+              "media_key": "3_2106309886216937473",
+              "start": 16,
+              "url": "https://t.co/H3QfzQgrEd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106309892525175222",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106309886216937473"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 7061,
+          "like_count": 146,
+          "quote_count": 0,
+          "reply_count": 18,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "跟别人出柜了就这样…唉挺绝望的 https://t.co/H3QfzQgrEd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还在等待生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/62kg/重庆&苏州/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/音游/百合/术力口",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.com",
+                "end": 23,
+                "expanded_url": "https://sgexilq.com",
+                "start": 0,
+                "url": "https://t.co/lYYLB3nMq8"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "谢谢你，让我做了一场甜甜的梦",
+        "most_recent_tweet_id": "2106596729646887093",
+        "name": "雪泠酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2102392920439734600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 714,
+          "like_count": 6358,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 671
+        },
+        "url": "https://t.co/lYYLB3nMq8",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-26T07:29:14.000Z",
+        "description": "mtf｜无糖版(被迫的😭) | emo中…🏳️‍⚧️🍥\n身体和灵魂还在吵架中\n今天也想变成真正的美少女｜天残党😢\n性格软软糯糯捏｜不敢说话喵\n同类互fo喵 一起慢慢想喵｜希望认识更多同类捏～\n白天还要上学喵 | 晚上会认真浏览每条通知捏\n精神肥肠稳定(？) ❌不zc不od哦",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/galeros",
+                "end": 23,
+                "expanded_url": "https://ngl.link/galeros",
+                "start": 0,
+                "url": "https://t.co/NjWCRXmyOy"
+              }
+            ]
+          }
+        },
+        "id": "1827971482540216320",
+        "is_identity_verified": false,
+        "location": "Your heart",
+        "most_recent_tweet_id": "2106392213362274325",
+        "name": "Sakura 🌸",
+        "pinned_tweet_id": "2103751331643273696",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1827971482540216320/1784350595",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078342247125577728/bp3Y7TPG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 133,
+          "like_count": 32,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 22
+        },
+        "url": "https://t.co/NjWCRXmyOy",
+        "username": "hugegaleros1234",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

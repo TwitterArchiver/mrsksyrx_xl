@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2107792553223598215",
+    "created_at": "2026-10-07T14:17:08.000Z",
+    "display_text_range": [
+      16,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T15:17:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107837636769665535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1794306281572118528",
+          "start": 0,
+          "username": "mikumi_huihui4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107837636769665535",
+    "in_reply_to_user_id": "1794306281572118528",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107792553223598215",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mikumi_huihui4 好咸好苦（？）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2107792553223598215",
+        "created_at": "2026-10-07T14:17:08.000Z",
+        "display_text_range": [
+          16,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T15:17:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107837636769665535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1794306281572118528",
+              "start": 0,
+              "username": "mikumi_huihui4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107837636769665535",
+        "in_reply_to_user_id": "1794306281572118528",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107792553223598215",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mikumi_huihui4 好咸好苦（？）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1794306281572118528",
+        "conversation_id": "2107792553223598215",
+        "created_at": "2026-10-07T11:18:00.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T12:18:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107792553223598215"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2107792553223598215",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2968,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "有没有什么能改变染色体的药？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还在等待生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/62kg/重庆&苏州/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/音游/百合/术力口\n详细自介→https://t.co/mrhm5rgPU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sgexilq.top",
+                "end": 160,
+                "expanded_url": "http://sgexilq.top",
+                "start": 137,
+                "url": "https://t.co/mrhm5rgPU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.com",
+                "end": 23,
+                "expanded_url": "https://sgexilq.com",
+                "start": 0,
+                "url": "https://t.co/lYYLB3nMq8"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "谢谢你，让我做了一场甜甜的梦",
+        "most_recent_tweet_id": "2107837636769665535",
+        "name": "雪泠酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2102392920439734600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 535,
+          "following_count": 718,
+          "like_count": 6377,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 681
+        },
+        "url": "https://t.co/lYYLB3nMq8",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-25T09:55:49.000Z",
+        "description": "同类互fo\n买糖🍬/药物咨询🍥/扩列\nTG消息秒回：https://t.co/mhMUnF6GNe\n微信：admin22334\nqq:1621320515\n老婆:@ChiAki1000kzm\n21|心理委员|依存症|mtf|xyn|二次元|特别粘人|不可以欺负我|特别害羞|杂鱼|腹黑|病娇|缺爱|抖M/S|重抑",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 95,
+                "start": 81,
+                "username": "ChiAki1000kzm"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 49,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 26,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/mikumi_huihui",
+                "end": 23,
+                "expanded_url": "http://t.me/mikumi_huihui",
+                "start": 0,
+                "url": "https://t.co/mhMUnF6GNe"
+              }
+            ]
+          }
+        },
+        "id": "1794306281572118528",
+        "is_identity_verified": false,
+        "location": "广东韶关",
+        "most_recent_tweet_id": "2107823003879035227",
+        "name": "惠惠🏳️‍⚧️(糖🍥商)（中二病也要mtf）",
+        "pinned_tweet_id": "2095890884730757256",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1794306281572118528/1790743722",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2105157646592671744/fH-jJV3m_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2631,
+          "following_count": 174,
+          "like_count": 258,
+          "listed_count": 2,
+          "media_count": 33,
+          "tweet_count": 251
+        },
+        "url": "https://t.co/mhMUnF6GNe",
+        "username": "mikumi_huihui4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

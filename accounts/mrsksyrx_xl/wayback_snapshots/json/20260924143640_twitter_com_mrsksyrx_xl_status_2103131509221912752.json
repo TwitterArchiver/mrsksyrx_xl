@@ -1,0 +1,284 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2102771157942628749",
+    "created_at": "2026-09-24T14:36:40.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T15:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103131509221912752"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1459827494995988480",
+          "start": 0,
+          "username": "alamgir32092660"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103131509221912752",
+    "in_reply_to_user_id": "1459827494995988480",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102771157942628749",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@alamgir32092660 啊啊啊啊xmsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 723,
+        "media_key": "3_2102771126619484160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6LMt4aMAArxku.jpg",
+        "width": 918
+      },
+      {
+        "height": 882,
+        "media_key": "3_2102771126627885056",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS6LMt6aYAA93sy.jpg",
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2102771157942628749",
+        "created_at": "2026-09-24T14:36:40.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103131509221912752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1459827494995988480",
+              "start": 0,
+              "username": "alamgir32092660"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103131509221912752",
+        "in_reply_to_user_id": "1459827494995988480",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102771157942628749",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@alamgir32092660 啊啊啊啊xmsl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102771126619484160",
+            "3_2102771126627885056"
+          ]
+        },
+        "author_id": "1459827494995988480",
+        "conversation_id": "2102771157942628749",
+        "created_at": "2026-09-23T14:44:46.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T15:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102771157942628749"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 37,
+              "start": 34,
+              "tag": "药娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/4W7b5ofsez",
+              "end": 61,
+              "expanded_url": "https://x.com/alamgir32092660/status/2102771157942628749/photo/1",
+              "media_key": "3_2102771126619484160",
+              "start": 38,
+              "url": "https://t.co/4W7b5ofsez"
+            },
+            {
+              "display_url": "pic.x.com/4W7b5ofsez",
+              "end": 61,
+              "expanded_url": "https://x.com/alamgir32092660/status/2102771157942628749/photo/1",
+              "media_key": "3_2102771126627885056",
+              "start": 38,
+              "url": "https://t.co/4W7b5ofsez"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102771157942628749",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102771126619484160"
+          },
+          {
+            "media_key": "3_2102771126627885056"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 5938,
+          "like_count": 108,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "虽然我不是天生顺女，但就是说，我现在我的身材比很多真女生还到位吧？ #药娘 https://t.co/4W7b5ofsez"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还要等1个月生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/术力口\n匿名提问！ https://t.co/kvG9RGwncj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.sgexilq.com",
+                "end": 164,
+                "expanded_url": "http://ngl.sgexilq.com",
+                "start": 141,
+                "url": "https://t.co/kvG9RGwncj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.com",
+                "end": 23,
+                "expanded_url": "https://sgexilq.com",
+                "start": 0,
+                "url": "https://t.co/lYYLB3nMq8"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "谢谢你，让我做了一场甜甜的梦",
+        "most_recent_tweet_id": "2103131509221912752",
+        "name": "雪泠酱🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 0,
+          "like_count": 6269,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 655
+        },
+        "url": "https://t.co/lYYLB3nMq8",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-14T10:16:44.000Z",
+        "description": "喜欢到处玩的小南梁一枚🍥\nENFP/喜欢可爱的东西\n互fo请私信，有时候不一定能看见",
+        "id": "1459827494995988480",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102953982448881849",
+        "name": "要薯角啦🍟🍥",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1459827494995988480/1785147002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081683470775095296/QPjxbswJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1781,
+          "following_count": 25,
+          "like_count": 24,
+          "listed_count": 1,
+          "media_count": 39,
+          "tweet_count": 80
+        },
+        "url": "",
+        "username": "alamgir32092660",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

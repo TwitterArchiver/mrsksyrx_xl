@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2106188388139442427",
+    "created_at": "2026-10-04T09:43:48.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T10:43:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106681684011651301"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066161725322526720",
+          "start": 0,
+          "username": "MTFitness6780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106681684011651301",
+    "in_reply_to_user_id": "2066161725322526720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106630754763444534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTFitness6780 可是明天就走了qwq"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2106188388139442427",
+        "created_at": "2026-10-04T09:43:48.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T10:43:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106681684011651301"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066161725322526720",
+              "start": 0,
+              "username": "MTFitness6780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106681684011651301",
+        "in_reply_to_user_id": "2066161725322526720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106630754763444534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTFitness6780 可是明天就走了qwq"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066161725322526720",
+        "conversation_id": "2106188388139442427",
+        "created_at": "2026-10-04T06:21:25.000Z",
+        "display_text_range": [
+          13,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:21:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106630754763444534"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1934880636319485955",
+              "start": 0,
+              "username": "mrsksyrx_xl"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106630754763444534",
+        "in_reply_to_user_id": "1934880636319485955",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106188388139442427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mrsksyrx_xl 湘雅吗...可以考虑面基欸"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还在等待生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/62kg/重庆&苏州/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/音游/百合/术力口\n详细自介→https://t.co/mrhm5rgPU6",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "sgexilq.top",
+                "end": 160,
+                "expanded_url": "http://sgexilq.top",
+                "start": 137,
+                "url": "https://t.co/mrhm5rgPU6"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.com",
+                "end": 23,
+                "expanded_url": "https://sgexilq.com",
+                "start": 0,
+                "url": "https://t.co/lYYLB3nMq8"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "谢谢你，让我做了一场甜甜的梦",
+        "most_recent_tweet_id": "2106681684011651301",
+        "name": "雪泠酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2102392920439734600",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 536,
+          "following_count": 714,
+          "like_count": 6360,
+          "listed_count": 0,
+          "media_count": 74,
+          "tweet_count": 674
+        },
+        "url": "https://t.co/lYYLB3nMq8",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T14:18:33.000Z",
+        "description": "08年MTF一枚 家长党😋 OD（?）紫餐（?）主人：@Antumn_Ink9   随意提问喵↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Antumn_Ink9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mtfitness6780",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mtfitness6780",
+                "start": 0,
+                "url": "https://t.co/Z6NiHQe69Q"
+              }
+            ]
+          }
+        },
+        "id": "2066161725322526720",
+        "is_identity_verified": false,
+        "location": "2.8km",
+        "most_recent_tweet_id": "2106638506713825345",
+        "name": "素風motofu",
+        "pinned_tweet_id": "2095138334201045393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066161725322526720/1782701797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066716754622173184/mlx9B5Nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 165,
+          "like_count": 2204,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 1831
+        },
+        "url": "https://t.co/Z6NiHQe69Q",
+        "username": "MTFitness6780",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2102037706704576936",
+    "created_at": "2026-09-21T14:10:17.000Z",
+    "display_text_range": [
+      0,
+      150
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T15:10:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2102037706704576936"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/netxfer/status…",
+          "end": 174,
+          "expanded_url": "https://twitter.com/netxfer/status/2102026764029673866",
+          "start": 151,
+          "url": "https://t.co/naqz7R4p3w"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102037706704576936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102026764029673866",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭xmsl🥺xmsl🥺xmsl🥺xmsl🥺xmsl🥺 https://t.co/naqz7R4p3w"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2102037706704576936",
+        "created_at": "2026-09-21T14:10:17.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T15:10:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102037706704576936"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/netxfer/status…",
+              "end": 174,
+              "expanded_url": "https://twitter.com/netxfer/status/2102026764029673866",
+              "start": 151,
+              "url": "https://t.co/naqz7R4p3w"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102037706704576936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102026764029673866",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭xmsl🥺xmsl🥺xmsl🥺xmsl🥺xmsl🥺 https://t.co/naqz7R4p3w"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2086258214631591936",
+        "conversation_id": "2102026764029673866",
+        "created_at": "2026-09-21T13:26:48.000Z",
+        "display_text_range": [
+          0,
+          149
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102026764029673866"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/kewen_offical/…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/kewen_offical/status/2101688169918046386",
+              "start": 150,
+              "url": "https://t.co/JmarD0sfuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102026764029673866",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101688169918046386",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡你们怎么全都在面基😡我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭我也想面😭xmsl🥺xmsl🥺xmsl🥺xmsl🥺xmsl https://t.co/JmarD0sfuX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还要等1个月生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/术力口\n头像自设OC稿件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.com",
+                "end": 23,
+                "expanded_url": "https://sgexilq.com",
+                "start": 0,
+                "url": "https://t.co/lYYLB3nMq8"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "谢谢你，让我做了一场甜甜的梦",
+        "most_recent_tweet_id": "2102037706704576936",
+        "name": "雪泠酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 530,
+          "following_count": 697,
+          "like_count": 6204,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 639
+        },
+        "url": "https://t.co/lYYLB3nMq8",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T01:09:40.000Z",
+        "description": "上海张江C++码农，生产日期1986.11.22，高172cm、重71kg，HRT日期2026.8.26。二代账号，已同步旧账号所有关注并从旧账号取关，旧账号同步书签后注销。定期删除本人部分历史评论或回复，无特殊原因，勿多虑。",
+        "id": "2086258214631591936",
+        "is_identity_verified": false,
+        "location": "GitHub",
+        "most_recent_tweet_id": "2102026764029673866",
+        "name": "天涯過客",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087559008005820416/OYwMldre_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42,
+          "following_count": 156,
+          "like_count": 2391,
+          "listed_count": 1,
+          "media_count": 18,
+          "tweet_count": 312
+        },
+        "url": "",
+        "username": "netxfer",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

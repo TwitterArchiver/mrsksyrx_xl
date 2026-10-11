@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2102359156963651584"
+      ]
+    },
+    "author_id": "1934880636319485955",
+    "conversation_id": "2101970047313076425",
+    "created_at": "2026-09-22T11:27:39.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T12:27:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102359163712266380"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2018248488773898240",
+          "start": 0,
+          "username": "Box3_ji"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KkIJokFrBu",
+          "end": 34,
+          "expanded_url": "https://x.com/mrsksyrx_xl/status/2102359163712266380/photo/1",
+          "media_key": "3_2102359156963651584",
+          "start": 11,
+          "url": "https://t.co/KkIJokFrBu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102359163712266380",
+    "in_reply_to_user_id": "2018248488773898240",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2102359156963651584"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101970047313076425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Box3_ji 🥰 https://t.co/KkIJokFrBu"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1206,
+        "media_key": "3_2102359156963651584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS0Ug7UbsAAuIOR.jpg",
+        "width": 1272
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102359156963651584"
+          ]
+        },
+        "author_id": "1934880636319485955",
+        "conversation_id": "2101970047313076425",
+        "created_at": "2026-09-22T11:27:39.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T12:27:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102359163712266380"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2018248488773898240",
+              "start": 0,
+              "username": "Box3_ji"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KkIJokFrBu",
+              "end": 34,
+              "expanded_url": "https://x.com/mrsksyrx_xl/status/2102359163712266380/photo/1",
+              "media_key": "3_2102359156963651584",
+              "start": 11,
+              "url": "https://t.co/KkIJokFrBu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102359163712266380",
+        "in_reply_to_user_id": "2018248488773898240",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2102359156963651584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101970047313076425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Box3_ji 🥰 https://t.co/KkIJokFrBu"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2018248488773898240",
+        "conversation_id": "2101970047313076425",
+        "created_at": "2026-09-21T09:41:26.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T10:41:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101970047313076425"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2101970047313076425",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 3933,
+          "like_count": 101,
+          "quote_count": 1,
+          "reply_count": 41,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "我宣布从今天起我不自残不嗑药了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还要等1个月生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/术力口\n匿名提问！ https://t.co/kvG9RGwncj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.sgexilq.com",
+                "end": 164,
+                "expanded_url": "http://ngl.sgexilq.com",
+                "start": 141,
+                "url": "https://t.co/kvG9RGwncj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.com",
+                "end": 23,
+                "expanded_url": "https://sgexilq.com",
+                "start": 0,
+                "url": "https://t.co/lYYLB3nMq8"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "谢谢你，让我做了一场甜甜的梦",
+        "most_recent_tweet_id": "2102359163712266380",
+        "name": "雪泠酱🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 534,
+          "following_count": 713,
+          "like_count": 6250,
+          "listed_count": 1,
+          "media_count": 70,
+          "tweet_count": 650
+        },
+        "url": "https://t.co/lYYLB3nMq8",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-02T09:02:14.000Z",
+        "description": "🩵泥豪_❛˓◞˂̵✧🩷社恐致歉🤍无证含糖🍥（暂时中断）🩷双相🩵\n🩵生产日期2012.4.6🩷无政府主义者🤍不OD🩷不自残🩵\n小盒子：@Box3_jilil",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "Box3_jilil"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/box3_ji/bit",
+                "end": 23,
+                "expanded_url": "https://ngl.link/box3_ji/bit",
+                "start": 0,
+                "url": "https://t.co/ICYysRSi06"
+              }
+            ]
+          }
+        },
+        "id": "2018248488773898240",
+        "is_identity_verified": false,
+        "location": "粉丝的心里🤍🩷🩵",
+        "most_recent_tweet_id": "2102340982109082079",
+        "name": "Box🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2102209974617485777",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2018248488773898240/1789314183",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092930234664574976/i9QCz-sY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 575,
+          "following_count": 60,
+          "like_count": 185,
+          "listed_count": 2,
+          "media_count": 35,
+          "tweet_count": 401
+        },
+        "url": "https://t.co/ICYysRSi06",
+        "username": "Box3_ji",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

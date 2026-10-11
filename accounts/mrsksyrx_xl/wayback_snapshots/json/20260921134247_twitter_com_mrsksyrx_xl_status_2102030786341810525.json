@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2101710330753925444",
+    "created_at": "2026-09-21T13:42:47.000Z",
+    "display_text_range": [
+      15,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-21T14:42:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102030786341810525"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1754494415152766976",
+          "start": 0,
+          "username": "IchinichiNagi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102030786341810525",
+    "in_reply_to_user_id": "1754494415152766976",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101710330753925444",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IchinichiNagi 我们的动漫社刚被解散…qwq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2101710299934150656",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSrGYeha0AADmLQ.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2101710330753925444",
+        "created_at": "2026-09-21T13:42:47.000Z",
+        "display_text_range": [
+          15,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-21T14:42:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102030786341810525"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1754494415152766976",
+              "start": 0,
+              "username": "IchinichiNagi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102030786341810525",
+        "in_reply_to_user_id": "1754494415152766976",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101710330753925444",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IchinichiNagi 我们的动漫社刚被解散…qwq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101710299934150656"
+          ]
+        },
+        "author_id": "1754494415152766976",
+        "conversation_id": "2101710330753925444",
+        "created_at": "2026-09-20T16:29:25.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:29:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101710330753925444"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fGI6YOok9r",
+              "end": 35,
+              "expanded_url": "https://x.com/IchinichiNagi/status/2101710330753925444/photo/1",
+              "media_key": "3_2101710299934150656",
+              "start": 12,
+              "url": "https://t.co/fGI6YOok9r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101710330753925444",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101710299934150656"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 43422,
+          "like_count": 811,
+          "quote_count": 3,
+          "reply_count": 48,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "平等的羡慕每一个深圳人 https://t.co/fGI6YOok9r"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还要等1个月生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/术力口\n头像自设OC稿件",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.com",
+                "end": 23,
+                "expanded_url": "https://sgexilq.com",
+                "start": 0,
+                "url": "https://t.co/lYYLB3nMq8"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "谢谢你，让我做了一场甜甜的梦",
+        "most_recent_tweet_id": "2102030786341810525",
+        "name": "雪泠酱🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2064031452359196695",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 529,
+          "following_count": 692,
+          "like_count": 6177,
+          "listed_count": 1,
+          "media_count": 69,
+          "tweet_count": 637
+        },
+        "url": "https://t.co/lYYLB3nMq8",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-02-05T13:17:29.000Z",
+        "description": "我没有\n我都没做过爱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tfl.gov.uk/tube/route/jub…",
+                "end": 23,
+                "expanded_url": "https://tfl.gov.uk/tube/route/jubilee/",
+                "start": 0,
+                "url": "https://t.co/nRq8LhT3S6"
+              }
+            ]
+          }
+        },
+        "id": "1754494415152766976",
+        "is_identity_verified": false,
+        "location": "Stansted Airport",
+        "most_recent_tweet_id": "2102001232395264512",
+        "name": "这是一日Nagi吗？",
+        "pinned_tweet_id": "2100872294285619481",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1754494415152766976/1782808002",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081044089487941632/4n6xQeCv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6198,
+          "following_count": 2329,
+          "like_count": 33768,
+          "listed_count": 10,
+          "media_count": 3167,
+          "tweet_count": 29211
+        },
+        "url": "https://t.co/nRq8LhT3S6",
+        "username": "IchinichiNagi",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

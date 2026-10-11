@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2103752534515220532",
+    "created_at": "2026-09-26T15:38:40.000Z",
+    "display_text_range": [
+      11,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T16:38:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103871886405054826"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1164441995298742272",
+          "start": 0,
+          "username": "yyyfexc45"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103871886405054826",
+    "in_reply_to_user_id": "1164441995298742272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103752534515220532",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yyyfexc45 我也想知道呜呜😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2103752534515220532",
+        "created_at": "2026-09-26T15:38:40.000Z",
+        "display_text_range": [
+          11,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T16:38:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103871886405054826"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1164441995298742272",
+              "start": 0,
+              "username": "yyyfexc45"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103871886405054826",
+        "in_reply_to_user_id": "1164441995298742272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103752534515220532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yyyfexc45 我也想知道呜呜😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1164441995298742272",
+        "conversation_id": "2103752534515220532",
+        "created_at": "2026-09-26T07:44:24.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:44:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103752534515220532"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103752534515220532",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3889,
+          "like_count": 61,
+          "quote_count": 0,
+          "reply_count": 17,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "操你妈的难道就没有办法让下面那东西彻底不硬吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还要等1个月生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/术力口\n匿名提问！ https://t.co/kvG9RGwncj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.sgexilq.com",
+                "end": 164,
+                "expanded_url": "http://ngl.sgexilq.com",
+                "start": 141,
+                "url": "https://t.co/kvG9RGwncj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.com",
+                "end": 23,
+                "expanded_url": "https://sgexilq.com",
+                "start": 0,
+                "url": "https://t.co/lYYLB3nMq8"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "谢谢你，让我做了一场甜甜的梦",
+        "most_recent_tweet_id": "2103871886405054826",
+        "name": "雪泠酱🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 718,
+          "like_count": 6289,
+          "listed_count": 1,
+          "media_count": 72,
+          "tweet_count": 661
+        },
+        "url": "https://t.co/lYYLB3nMq8",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-22T07:39:50.000Z",
+        "description": "mtx/f | intp | asd | 社交无能\nvocaloid | pjsk | arknights | 单机 pc/ns\n查成分互fo\n备用机@xxxfexc414",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 75,
+                "username": "xxxfexc414"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/fexc45",
+                "end": 23,
+                "expanded_url": "http://t.me/fexc45",
+                "start": 0,
+                "url": "https://t.co/aN98VkxSqs"
+              }
+            ]
+          }
+        },
+        "id": "1164441995298742272",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103865555396726819",
+        "name": "fexc45",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1164441995298742272/1787363058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2095814321532203008/BNVD711o_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 816,
+          "like_count": 4293,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 749
+        },
+        "url": "https://t.co/aN98VkxSqs",
+        "username": "yyyfexc45",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

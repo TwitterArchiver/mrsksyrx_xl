@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1934880636319485955",
+    "conversation_id": "2103076571359916477",
+    "created_at": "2026-09-24T14:35:46.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T15:35:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103131283752890738"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1716000108003946496",
+          "start": 0,
+          "username": "steampork_114"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103131283752890738",
+    "in_reply_to_user_id": "1716000108003946496",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103076571359916477",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@steampork_114 xm呜呜呜"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1934880636319485955",
+        "conversation_id": "2103076571359916477",
+        "created_at": "2026-09-24T14:35:46.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T15:35:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103131283752890738"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1716000108003946496",
+              "start": 0,
+              "username": "steampork_114"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103131283752890738",
+        "in_reply_to_user_id": "1716000108003946496",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103076571359916477",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@steampork_114 xm呜呜呜"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1716000108003946496",
+        "conversation_id": "2103076571359916477",
+        "created_at": "2026-09-24T10:58:22.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T11:58:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103076571359916477"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2103076571359916477",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2787,
+          "like_count": 75,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下课的时候\n顺女：你陪我去个厕所\n我：（？\n咱什么时候能去女厕所呢…"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T07:48:01.000Z",
+        "description": "MtF/小证2026.6/家长党/持证含糖（还要等1个月生育力保存）/DIY HRT 26.5.10-6.22/诞生日2009.10.10/高一休学/175cm/60kg/重庆&苏州/天残党QAQ/想要变可爱/友所有人/同类贴贴/缺爱/INFP-T/双/二次元/术力口\n匿名提问！ https://t.co/kvG9RGwncj",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.sgexilq.com",
+                "end": 164,
+                "expanded_url": "http://ngl.sgexilq.com",
+                "start": 141,
+                "url": "https://t.co/kvG9RGwncj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sgexilq.com",
+                "end": 23,
+                "expanded_url": "https://sgexilq.com",
+                "start": 0,
+                "url": "https://t.co/lYYLB3nMq8"
+              }
+            ]
+          }
+        },
+        "id": "1934880636319485955",
+        "is_identity_verified": false,
+        "location": "谢谢你，让我做了一场甜甜的梦",
+        "most_recent_tweet_id": "2103131283752890738",
+        "name": "雪泠酱🍥🏳️‍⚧️",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934880636319485955/1772993220",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096590535536603136/BS8SOQEU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 537,
+          "following_count": 0,
+          "like_count": 6265,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 654
+        },
+        "url": "https://t.co/lYYLB3nMq8",
+        "username": "mrsksyrx_xl",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-10-22T07:54:52.000Z",
+        "description": "老婆💗: @luna4rzd\n———————————\nMTF｜HRT2026.2.22🏳️‍⚧️🍥｜找了三次晶的学生｜昵称：猪排，stmpk｜生产日期2012.3.18｜靠老婆的泰补活着…｜坐标北京｜出柜2026.4｜家暴党",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 5,
+                "username": "luna4rzd"
+              }
+            ]
+          }
+        },
+        "id": "1716000108003946496",
+        "is_identity_verified": false,
+        "location": "Beijing",
+        "most_recent_tweet_id": "2103115126689890633",
+        "name": "stmpk_114挽柔 🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2085188057582723079",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1716000108003946496/1785297663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082311453407944704/q1IRSlvw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 613,
+          "following_count": 663,
+          "like_count": 2085,
+          "listed_count": 1,
+          "media_count": 65,
+          "tweet_count": 329
+        },
+        "url": "",
+        "username": "steampork_114",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
